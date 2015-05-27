@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidpillow xmlns:android="http://schemas.android.com/apk/res/android">
+    <modelConfigurations class="com.mateuyabar.blog.gcmsample2client.pillow.PillowConfiguration"/>
+    <url value="http://192.168.2.5:3000"/>
+</androidpillow>

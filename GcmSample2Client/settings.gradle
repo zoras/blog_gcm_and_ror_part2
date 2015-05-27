@@ -1,0 +1,4 @@
+include ':app'
+include ':androidPillow'
+project(':androidPillow').projectDir = new File('/home/mateuyabar/projectes/androidPillow/androidPillow/androidPillow')
+
